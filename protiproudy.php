@@ -9,7 +9,7 @@
 <body>
   
   <?php include "menu/menu.php"; ?>
-  <?php include "hero/hero.php"; ?>
+  <?php include "banner/banner.php"; ?>
 
   <section class="max-w-6xl mx-auto px-4">
     <h2 class="text-center text-2xl sm:text-3xl font-bold my-16">Protiproudy</h2>

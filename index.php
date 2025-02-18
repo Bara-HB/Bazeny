@@ -8,7 +8,7 @@
 </head>
 <body>
   <?php include "menu/menu.php"; ?>
-  <?php include "hero/hero.php"; ?>
+  <?php include "banner/banner.php"; ?>
 
 <!-- Proč si vybrat nás -->
   <section class="py-16">
